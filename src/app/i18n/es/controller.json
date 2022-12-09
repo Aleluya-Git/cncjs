@@ -8,7 +8,7 @@
             "end": "Finalizar",
             "run": "Iniciar",
             "hold": "Pausar",
-            "probe": "Centrar",
+            "probe": "Sondear",
             "cycle": "Ciclo",
             "homing": "Mover ejes hasta los finales de carrera",
             "jog": "Mover",
